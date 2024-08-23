@@ -1,4 +1,5 @@
 ## Output
+
 Get gas estimation then call transferUSDC with new gas limit + 10%\
 Estimating gas for transferUsdc() !\
 ✔ Estimated gas: 425463\
@@ -11,5 +12,8 @@ Calling transferUsdc() !
 
 1 passing (12s)
 
-![alt text](https://testnet.snowtrace.io/tx/0xe13d44a0f49985310fd9fede0a31d016857c1e771892de95a761fe3ab63f8bf2)
+[Txn Hash (Fuji)](https://testnet.snowtrace.io/tx/0xe13d44a0f49985310fd9fede0a31d016857c1e771892de95a761fe3ab63f8bf2)
 
+![Command Line](https://github.com/cryptofluencerr/ccip_bootcamp_homework/blob/main/day3_homework/img/cli_img.png)
+
+![Txn](https://github.com/cryptofluencerr/ccip_bootcamp_homework/blob/main/day3_homework/img/txn_img.png)
